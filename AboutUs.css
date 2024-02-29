@@ -1,0 +1,20 @@
+/* AboutUs.css */
+
+/* Resetting margin and padding for the container */
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for the heading container */
+.About-container {
+  margin: 3% 1%; /* Top and bottom margin 3%, left and right margin 1% */
+  font-size: 50px; /* Font size */
+  font-weight: 650; /* Font weight */
+}
+
+/* Styling for paragraphs */
+.first {
+  margin: 4% 3%; /* Top and bottom margin 4%, left and right margin 3% */
+  font-size: 25px; /* Font size */
+}

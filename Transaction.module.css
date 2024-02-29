@@ -1,0 +1,38 @@
+/* Transactions.module.css */
+
+/* Styling for the container */
+.container {
+  font-family: Arial, sans-serif; /* Font family */
+  margin: 20px; /* Margin */
+}
+
+/* Styling for the heading */
+.heading {
+  font-size: 40px; /* Font size */
+  font-weight: 700; /* Font weight */
+}
+
+/* Styling for the select dropdown */
+.select {
+  width: 100%; /* Full width */
+  padding: 8px; /* Padding */
+  border: 1px solid #ccc; /* Border */
+  border-radius: 4px; /* Border radius */
+  box-sizing: border-box; /* Box sizing */
+  font-size: 16px; /* Font size */
+  margin-top: 5px; /* Top margin */
+}
+
+/* Styling for the table */
+.table {
+  width: 100%; /* Full width */
+  border-collapse: collapse; /* Collapse border */
+  margin-top: 20px; /* Top margin */
+}
+
+/* Styling for table header and cells */
+.table th,
+.table td {
+  padding: 8px; /* Padding */
+  border: 1px solid #ddd; /* Border */
+}

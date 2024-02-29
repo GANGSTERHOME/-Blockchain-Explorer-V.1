@@ -1,0 +1,43 @@
+/* BlockDetails.module.css */
+
+/* Styling for the block details container */
+.block-details {
+  font-family: Arial, sans-serif; /* Font family */
+  margin: 20px; /* Margin */
+  padding: 20px; /* Padding */
+}
+
+/* Styling for the heading of block details */
+.block-details h2 {
+  font-size: 30px; /* Font size */
+  font-weight: bold; /* Font weight */
+  margin-bottom: 20px; /* Bottom margin */
+}
+
+/* Styling for subheading of block details */
+.block-details h3 {
+  font-size: 20px; /* Font size */
+  font-weight: bold; /* Font weight */
+}
+
+/* Styling for the table */
+.block-details table {
+  width: 100%; /* Table width */
+  border-collapse: collapse; /* Collapse border */
+}
+
+/* Styling for table cells */
+.block-details table td {
+  padding: 8px; /* Cell padding */
+  border: 1px solid #ddd; /* Border */
+}
+
+/* Styling for first child of table cells */
+.block-details table td:first-child {
+  font-weight: bold; /* Font weight for first cell */
+}
+
+/* Styling for paragraphs within block details */
+.block-details p {
+  font-size: 16px; /* Font size */
+}

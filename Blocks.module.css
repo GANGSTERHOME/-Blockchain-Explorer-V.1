@@ -1,0 +1,30 @@
+/* Blocks.module.css */
+
+/* Styling for the container of blocks section */
+.blocksContainer {
+  display: flex; /* Flex container */
+  flex-direction: column; /* Layout direction */
+  align-items: center; /* Center align items */
+  font-family: Arial, sans-serif; /* Font family */
+  margin-top: 20px; /* Top margin */
+  font-size: 20px; /* Font size */
+}
+
+/* Styling for the heading of blocks section */
+.h2Container {
+  font-size: 40px; /* Font size */
+  font-weight: 700; /* Font weight */
+}
+
+/* Styling for the select dropdown */
+.selectAddress select {
+  margin-top: 10px; /* Top margin */
+  font-size: 20px; /* Font size */
+  font-weight: bold; /* Font weight */
+}
+
+/* Styling for options within the select dropdown */
+.selectAddress option {
+  font-size: 15px; /* Font size */
+  font-weight: bold; /* Font weight */
+}

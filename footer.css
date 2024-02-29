@@ -1,0 +1,19 @@
+/* App.css */
+
+/* Styling for the footer */
+.footer {
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Positioned at the bottom */
+  left: 0; /* Positioned at the left */
+  width: 100%; /* Full width */
+  background-color: #333; /* Background color */
+  color: white; /* Text color */
+  padding: 5px; /* Padding */
+  text-align: left; /* Text alignment */
+}
+
+/* Styling for paragraph within the footer */
+.p-container {
+  padding: 0; /* Resetting padding */
+  margin: 0; /* Resetting margin */
+}

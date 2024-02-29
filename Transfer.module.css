@@ -1,0 +1,66 @@
+/* Transfer.module.css */
+
+/* Styles for the transfer container */
+.transfer {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Styles for the heading */
+.transfer h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Styles for the form */
+.transfer form {
+  margin-top: 20px;
+}
+
+/* Styles for labels */
+.transfer label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Styles for input and select elements */
+.transfer input,
+.transfer select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Styles for buttons */
+.transfer button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Styles for submit button */
+.transfer button[type="submit"] {
+  background-color: #28a745;
+}
+
+/* Styles for button hover effect */
+.transfer button[type="submit"]:hover,
+.transfer button[type="button"]:hover {
+  opacity: 0.8;
+}
+
+/* Styles for error message */
+.transfer p {
+  color: red;
+  margin-top: 10px;
+}

@@ -1,0 +1,19 @@
+/* Cryptocurrency.module.css */
+
+/* Styling for the container of cryptocurrency icons */
+.cryptocurrency {
+  display: flex; /* Flex container */
+  justify-content: center; /* Center align horizontally */
+  align-items: flex-end; /* Align items at the bottom */
+  padding-bottom: 10vh; /* Bottom padding */
+  padding-top: 0px; /* Top padding */
+}
+
+/* Styling for cryptocurrency icons */
+.cryptocurrency-icon {
+  width: 80px; /* Icon width */
+  height: 80px; /* Icon height */
+  margin: 10% 2% 2% 2%; /* Margin */
+  padding: 10px; /* Padding */
+  border-radius: 50%; /* Border radius to make it circular */
+}

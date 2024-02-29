@@ -1,0 +1,35 @@
+/* Nav.module.css */
+
+/* Styling for the container */
+.container {
+  display: flex; /* Flex container */
+  justify-content: space-between; /* Space between items */
+  align-items: center; /* Center align items */
+  font-size: 25px; /* Font size */
+  color: white; /* Text color */
+}
+
+/* Styling for navigation links and brand */
+.navLink,
+.navBrand {
+  font-size: 25px !important; /* Ensure consistent font size for all links */
+  color: white; /* Font color */
+}
+
+/* Styling for brand and links */
+.navBrand,
+.navLink {
+  margin-right: 20px; /* Right margin */
+}
+
+/* Styling for search input */
+.navSearch {
+  margin-left: auto; /* Align to the right */
+  margin-right: 20px; /* Right margin */
+  flex: 1; /* Take remaining space */
+}
+
+/* Styling for search input */
+.searchInput {
+  width: calc(100% - 40px); /* Calculate width with margin considered */
+}
